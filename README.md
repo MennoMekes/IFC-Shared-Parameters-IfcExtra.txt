@@ -5,7 +5,7 @@ in this Shared Parameter file for Revit you will find:
 
 Entities that export to IfcSpace van be grouped in one or more IfcZones.
 Use these parameters to name the zones:
-ZoneName 
+ZoneName
 ZoneName2
 ZoneName3
 ZoneName4
