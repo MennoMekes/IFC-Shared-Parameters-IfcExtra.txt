@@ -1,5 +1,5 @@
 # IFC-Shared-Parameters-IfcExtra.txt
-Extra Ifc parameters for naming IfcZones and Classification
+Extra Ifc parameters for naming and Classification Rooms and Areas to IfcZones
 
 in this Shared Parameter file for Revit you will find:
 
@@ -24,12 +24,3 @@ ZoneClassificationCode2
 ZoneClassificationCode3
 ZoneClassificationCode4
 ZoneClassificationCode5
-
-The regular ClassificationCode-parameters are found in IFC Shared Parameters-RevitIFCBuiltIn_ALL.txt.
-To set a Type-ClassificationCode you can use these:
-ClassificationCode[Type]
-ClassificationCode(2)[Type]
-ClassificationCode(3)[Type]
-ClassificationCode(4)[Type]
-ClassificationCode(5)[Type]
-ClassificationCode(6)[Type]
