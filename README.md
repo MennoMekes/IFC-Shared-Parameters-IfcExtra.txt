@@ -1,5 +1,5 @@
 # IFC-Shared-Parameters-IfcExtra.txt
-Extra Ifc parameters for naming and Classification Rooms and Areas to IfcZones
+Extra Ifc parameters for naming and Classifying Rooms and Areas to IfcZones
 
 in this Shared Parameter file for Revit you will find:
 
