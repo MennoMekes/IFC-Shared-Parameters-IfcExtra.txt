@@ -10,6 +10,10 @@ ZoneName2
 ZoneName3
 ZoneName4
 ZoneName5
+ZoneName6
+ZoneName7
+ZoneName8
+ZoneName9
 
 Use these ObjectType parameters to specify the type of zone:
 ZoneObjectType
@@ -17,6 +21,10 @@ ZoneObjectType2
 ZoneObjectType3
 ZoneObjectType4
 ZoneObjectType5
+ZoneObjectType6
+ZoneObjectType7
+ZoneObjectType8
+ZoneObjectType9
 
 Combine ZoneName and ZoneObjectype to create a built-in Classification.
 ZoneClassificationCode
@@ -24,3 +32,7 @@ ZoneClassificationCode2
 ZoneClassificationCode3
 ZoneClassificationCode4
 ZoneClassificationCode5
+ZoneClassificationCode6
+ZoneClassificationCode7
+ZoneClassificationCode8
+ZoneClassificationCode9
