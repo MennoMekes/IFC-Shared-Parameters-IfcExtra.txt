@@ -1,0 +1,16 @@
+In our office we use the followibg ZoneObjectTypes:
+
+ZoneObjectType    woningtype                  typename dwelling             e.g. 'woning A'
+ZoneObjectType2   bouwnummer                  unique dwellingnumber         e.g. 'bnr.001'
+ZoneObjectType3   huisnummer                  appartmentnumber/housenumber  e.g. '214'
+ZoneObjectType4   indexnummer                 legal appartment number       e.g. '1.2.11'
+ZoneObjectType5   bouwdeel                    buildingpart                  e.g. 'blok W2'
+ZoneObjectType6   gebruiksgebied              use of area                   e.g. 'G01' / 'R01'
+ZoneObjectType7   verblijfsgebied             use of 'staying area'         e.g. 'F01' / 'V01' / 'B01'
+ZoneObjectType8   brandcompartimentering      fire compartment              e.g. 'BC01'
+ZoneObjectType9   vluchtroute                 fire exit route               e.g.  'V01'
+
+ZoneObjectType 6 through 9 are the 4 zones as subscribed by the Dutch govt:
+https://www.rijksvastgoedbedrijf.nl/expertise-en-diensten/building-information-modelling/documenten/richtlijn/2019/04/01/rvb-bim-specificatie-v1.1-c
+These are found in the excel:
+https://www.rijksvastgoedbedrijf.nl/expertise-en-diensten/building-information-modelling/documenten/richtlijn/2019/04/01/rvb-bim-specificatie-v1.0-bijlage-nomenclatuur-bb2012
