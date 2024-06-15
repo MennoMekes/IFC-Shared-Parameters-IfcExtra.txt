@@ -11,6 +11,6 @@ ZoneObjectType8   brandcompartimentering      fire compartment              e.g.
 ZoneObjectType9   vluchtroute                 fire exit route               e.g.  'V01'
 
 ZoneObjectType 6 through 9 are the 4 zones as subscribed by the Dutch government:
-https://www.rijksvastgoedbedrijf.nl/expertise-en-diensten/building-information-modelling/documenten/richtlijn/2019/04/01/rvb-bim-specificatie-v1.1-c
+https://www.rijksvastgoedbedrijf.nl/binaries/rijksvastgoedbedrijf/documenten/richtlijn/2019/04/01/rvb-bim-specificatie-v1.1-c/RVB_BIM_Specificatie_v1.1-c.pdf
 These are found in the excel:
-https://www.rijksvastgoedbedrijf.nl/expertise-en-diensten/building-information-modelling/documenten/richtlijn/2019/04/01/rvb-bim-specificatie-v1.0-bijlage-nomenclatuur-bb2012
+https://www.rijksvastgoedbedrijf.nl/onderwerpen/bouw-informatie-model/documenten/richtlijn/2019/04/01/rvb-bim-specificatie-v1.0-bijlage-nomenclatuur-bb2012
